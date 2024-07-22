@@ -1,0 +1,14 @@
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/server.AssemblyInfoInputs.cache
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/server.AssemblyInfo.cs
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/server.csproj.CoreCompileInputs.cache
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/bin/Debug/net8.0/server
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/bin/Debug/net8.0/server.deps.json
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/bin/Debug/net8.0/server.runtimeconfig.json
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/bin/Debug/net8.0/server.dll
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/bin/Debug/net8.0/server.pdb
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/server.dll
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/refint/server.dll
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/server.pdb
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/server.genruntimeconfig.cache
+/Users/lexlanven/Desktop/App/GeekBrains/client-server-app/server/obj/Debug/net8.0/ref/server.dll
