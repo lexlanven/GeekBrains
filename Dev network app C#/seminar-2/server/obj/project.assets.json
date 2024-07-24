@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-2/server/server.csproj",
+      "projectUniqueName": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-3/server/server.csproj",
       "projectName": "server",
-      "projectPath": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-2/server/server.csproj",
+      "projectPath": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-3/server/server.csproj",
       "packagesPath": "/Users/lexlanven/.nuget/packages/",
-      "outputPath": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-2/server/obj/",
+      "outputPath": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-3/server/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lexlanven/.nuget/NuGet/NuGet.Config"

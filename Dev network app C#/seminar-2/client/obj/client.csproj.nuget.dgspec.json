@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-2/client/client.csproj": {}
+    "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-3/client/client.csproj": {}
   },
   "projects": {
-    "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-2/client/client.csproj": {
+    "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-3/client/client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-2/client/client.csproj",
+        "projectUniqueName": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-3/client/client.csproj",
         "projectName": "client",
-        "projectPath": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-2/client/client.csproj",
+        "projectPath": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-3/client/client.csproj",
         "packagesPath": "/Users/lexlanven/.nuget/packages/",
-        "outputPath": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-2/client/obj/",
+        "outputPath": "/Users/lexlanven/Desktop/App/GeekBrains/Dev network app C#/seminar-3/client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/lexlanven/.nuget/NuGet/NuGet.Config"
